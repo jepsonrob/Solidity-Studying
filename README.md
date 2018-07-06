@@ -1,2 +1,5 @@
 # Solidity-Studying
-Learning all kinds of things about Ethereum &amp; Dapps
+
+# Resources
+
+[Fantastic Tutorial on Creating a Dapp](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e)
